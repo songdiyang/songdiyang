@@ -9,3 +9,55 @@ Hello, I'm songdiyang, a software engineering enthusiast. I'm currently experime
 `💡 New Paradigm Explorer` `🔧 Software Architect` `🚀 Optimization Focused`
 
 <br clear="left"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=songdiyang&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songdiyang&layout=compact&langs_count=8&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=songdiyang&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=songdiyang&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=songdiyang&theme=github&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<!-- 在这里添加你的精选项目 -->
+<div align="center">
+  <a href="https://github.com/songdiyang/songdiyang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=songdiyang&repo=songdiyang&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 📫 How to reach me
+
+- GitHub: [@songdiyang](https://github.com/songdiyang)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=songdiyang&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
