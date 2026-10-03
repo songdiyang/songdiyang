@@ -22,15 +22,3 @@ Hello, I'm songdiyang, a software engineering enthusiast. I'm currently experime
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=songdiyang&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 📫 How to reach me
-
-- GitHub: [@songdiyang](https://github.com/songdiyang)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=songdiyang&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
