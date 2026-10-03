@@ -25,33 +25,6 @@ Hello, I'm songdiyang, a software engineering enthusiast. I'm currently experime
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=songdiyang&theme=onedark&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=songdiyang&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<!-- 在这里添加你的精选项目 -->
-<div align="center">
-  <a href="https://github.com/songdiyang/songdiyang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=songdiyang&repo=songdiyang&hide_border=true" />
-  </a>
-</div>
-
----
-
 ## 📫 How to reach me
 
 - GitHub: [@songdiyang](https://github.com/songdiyang)
