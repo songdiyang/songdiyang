@@ -22,5 +22,3 @@ Hello, I'm songdiyang, a software engineering enthusiast. I'm currently experime
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=songdiyang&hide_border=true" alt="GitHub Streak" />
 </div>
-
-> **Note**: Total Stars 仅统计个人账号下的仓库。组织仓库 [AetherStudio](https://github.com/aetherstudio-cn/AetherStudio) (⭐ 87) 未包含在内。
