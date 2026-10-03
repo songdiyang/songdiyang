@@ -28,7 +28,7 @@ Hello, I'm songdiyang, a software engineering enthusiast. I'm currently experime
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=songdiyang&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=songdiyang&theme=onedark&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </div>
 
 ---
@@ -36,7 +36,7 @@ Hello, I'm songdiyang, a software engineering enthusiast. I'm currently experime
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=songdiyang&theme=github&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=songdiyang&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
 </div>
 
 ---
