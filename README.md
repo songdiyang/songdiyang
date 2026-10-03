@@ -16,7 +16,7 @@ Hello, I'm songdiyang, a software engineering enthusiast. I'm currently experime
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=songdiyang&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songdiyang&layout=compact&langs_count=8&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songdiyang&layout=compact&langs_count=8&hide_border=true&exclude_repo=songdiyang"/>
 </div>
 
 <div align="center">
